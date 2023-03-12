@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://homepage-derickdu.vercel.app](https://homepage-derickdu.vercel.app)
+- 👨‍💻 All of my projects are available at [https://derickdu.com](https://derickdu.com)
 
 - 💬 Ask me about **Java, JavaScript, Python, Go, React and Spring**
 
-- 📫 How to reach me **dododugan@gmail.com**
+- 📫 How to reach me **ZhengkunDerick@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
